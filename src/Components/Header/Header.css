@@ -1,4 +1,10 @@
+nav{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
 nav a{
     margin-right: 15px;
     font-size: 25px;
+    /* text-decoration: none; */
 }
